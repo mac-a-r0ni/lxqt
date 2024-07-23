@@ -1,0 +1,26 @@
+# Description: TCommon base library for LXQt components
+# URL: https://github.com/lxqt/liblxqt
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: kwindowsystem lxqt-build-tools polkit-qt-1
+
+name=liblxqt
+version=2.0.0
+release=1
+
+source=(https://github.com/lxqt/liblxqt/archive/2.0.0/liblxqt-2.0.0.tar.gz)
+
+build() {
+
+	mkdir -p build
+	cd build
+	cmake "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=lib \
+		-DCMAKE_BUILD_TYPE=Release \
+		-Wno-dev
+	make
+
+	make DESTDIR="$PKG" install
+
+	rm -rf $PKG/usr/share/lxqt/translations
+}

@@ -1,0 +1,29 @@
+# Description: Caching mechanism for freedesktop.org compliant menus
+# URL: http://lxde.org/
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: libfm-extra
+# Optional: xdg-utils gtk-doc
+
+name=menu-cache
+version=1.1.0
+release=1
+source=(https://downloads.sourceforge.net/lxde/$name-$version.tar.xz menu-cache-1.1.0-consolidated_fixes-1.patch)
+
+
+build() {
+
+	cd $name-$version
+
+	patch -Np1 -i ../menu-cache-1.1.0-consolidated_fixes-1.patch
+
+	./configure \
+	  --prefix=/usr \
+	  --libexecdir=/usr/lib/ \
+	  --disable-static
+
+	make
+	make DESTDIR=$PKG install
+
+	rm -rf $PKG/usr/lib/*.la
+}
+

@@ -1,0 +1,27 @@
+# Description: File manager and desktop icon manager (Qt port of PCManFM and libfm)
+# URL: https://github.com/lxqt/pcmanfm-qt
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: lxqt-build-tools desktop-file-utils libfm-qt layer-shell-qt
+# Optional: gvfs lxqt-archiver qt6-translations
+
+name=pcmanfm-qt
+version=2.0.0
+release=1
+
+source=(https://github.com/lxqt/pcmanfm-qt/releases/download/2.0.0/pcmanfm-qt-2.0.0.tar.xz)
+
+build() {
+	mkdir -p build
+	cd build
+
+	cmake "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=/usr/lib \
+		-DCMAKE_BUILD_TYPE=Release \
+		-Wno-dev
+	make
+
+	make DESTDIR="$PKG" install
+
+rm -rf $PKG/usr/share/$name/translations
+}

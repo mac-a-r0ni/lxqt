@@ -1,0 +1,22 @@
+# Description: A backend implementation for xdg-desktop-portal using Qt/KDE Frameworks
+# URL: https://github.com/lxqt/xdg-desktop-portal-lxqt
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: kwindowsystem libfm-qt qt6-base xdg-desktop-portal
+
+name=xdg-desktop-portal-lxqt
+version=1.0.2
+release=1
+
+source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
+build() {
+	mkdir -p build
+	cd build
+	cmake "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBEXECDIR=/usr/lib/$name \
+		-DCMAKE_BUILD_TYPE=Release \
+		-Wno-dev
+	make
+
+	make DESTDIR="$PKG" install
+}

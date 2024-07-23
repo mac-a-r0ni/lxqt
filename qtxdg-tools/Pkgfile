@@ -1,0 +1,23 @@
+# Description: libqtxdg user tools
+# URL: https://github.com/lxqt/qtxdg-tools
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: qt6-base libqtxdg qt6-tools lxqt-build-tools
+
+name=qtxdg-tools
+version=4.0.0
+release=1
+
+source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
+
+build() {
+
+	cmake -B build -S "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=lib \
+		-DCMAKE_BUILD_TYPE=Release \
+		-Wno-dev
+
+	cmake --build build
+
+	DESTDIR=$PKG cmake --install build
+}

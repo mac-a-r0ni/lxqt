@@ -1,0 +1,23 @@
+# Description: A library that provides cross platform access to statistics about the system on which it's run
+# URL: https://www.i-scream.org/libstatgrab
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: ncurses perl
+
+name=libstatgrab
+version=0.92.1
+release=1
+
+source=(https://github.com/$name/$name/releases/download/LIBSTATGRAB_0_92_1/$name-$version.tar.gz)
+
+build() {
+
+	cd $name-$version
+
+	./configure --prefix=/usr
+	make
+
+	make DESTDIR="$PKG" install
+
+	rm -r $PKG/usr/lib/*.la
+	rm -rf $PKG/usr/share/doc
+}

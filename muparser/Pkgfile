@@ -1,0 +1,24 @@
+# Description: A fast math parser library.
+# URL: http://muparser.sourceforge.net/
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on:
+
+name=muparser
+version=2.3.4
+release=1
+
+source=(https://github.com/beltoforion/muparser/archive/v$version/$name-$version.tar.gz)
+
+build() {
+
+	cmake -B build -S $name-$version \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=lib \
+		-DCMAKE_BUILD_TYPE=Release \
+		-Wno-dev
+
+	cmake --build build
+
+	DESTDIR=$PKG cmake --install build
+
+}

@@ -1,0 +1,25 @@
+# Description: The LXQt session manager
+# URL: https://github.com/lxqt/lxqt-session
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: kwindowsystem layer-shell-qt qtxdg-tools liblxqt lxqt-themes lxqt-build-tools xdg-user-dirs
+# Optional: breeze-icons oxygen-icons
+
+name=lxqt-session
+version=2.0.0
+release=1
+
+source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
+
+build() {
+	mkdir -p build
+	cd build
+	cmake "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_BUILD_TYPE=Release \
+		-Wno-dev
+	make
+
+	make DESTDIR="$PKG" install
+
+rm -rf $PKG/usr/share/lxqt/translations
+}

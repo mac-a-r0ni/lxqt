@@ -1,0 +1,25 @@
+# Description: Qt process viewer and manager
+# URL: https://github.com/lxqt/qps
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: lxqt-build-tools liblxqt qt6-base hicolor-icon-theme
+
+name=qps
+version=2.9.0
+release=1
+
+source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
+
+build() {
+	mkdir -p build
+	cd build
+	cmake "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=lib \
+		-DCMAKE_BUILD_TYPE=Release \
+		-Wno-dev
+	make
+
+	make DESTDIR="$PKG" install
+
+rm -rf $PKG/usr/share/$name/translations
+}

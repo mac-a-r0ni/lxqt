@@ -1,0 +1,25 @@
+# Description: A library that provides a Qt implementation of the DBusMenu spec
+# URL: https://github.com/lxqt/libdbusmenu-lxqt
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: cmake doxygen qt6-base dbus
+
+name=libdbusmenu-lxqt
+version=0.1.0
+release=1
+
+source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
+
+build() {
+
+	mkdir -p build
+
+	cd build
+	cmake ../$name-$version \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=/usr/lib \
+		-DCMAKE_BUILD_TYPE=Release \
+		-Wno-dev
+	make
+
+	make DESTDIR="$PKG" install
+}

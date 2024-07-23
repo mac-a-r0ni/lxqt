@@ -1,0 +1,22 @@
+# Description: Various packaging tools and scripts for LXQt applications
+# URL: https://github.com/lxqt/lxqt-build-tools
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: qt6-tools git
+
+name=lxqt-build-tools
+version=2.0.0
+release=1
+
+source=(https://github.com/lxqt/lxqt-build-tools/archive/2.0.0/lxqt-build-tools-2.0.0.tar.gz)
+
+build() {
+	mkdir -p build
+	cd build
+	cmake "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_BUILD_TYPE=Release \
+		-Wno-dev
+	make
+
+	make DESTDIR="$PKG" install
+}

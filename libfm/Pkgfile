@@ -1,0 +1,38 @@
+# Description: Library for file management
+# URL: https://lxde.org
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: gtk gtk3 libexif menu-cache
+# Optional: gtk-doc dbus-glib gvfs lxmenu-data menu-cache
+
+name=libfm
+version=1.3.2
+release=1
+
+source=(https://github.com/lxde/libfm/archive/${version}/$name-$version.tar.gz)
+
+build() {
+
+cd $name-$version
+
+	autoreconf -fi
+	./configure \
+	  --prefix=/usr \
+	  --sysconfdir=/etc \
+	  --with-gtk=3 \
+	  --with-gtk=2 \
+	  --with-gnu-ld \
+	  --disable-static \
+	  --disable-nls \
+	  --disable-gtk-doc
+
+make
+
+make DESTDIR="$PKG" install
+
+rm -rf $PKG/usr/lib/*.la
+rm $PKG/usr/include/libfm-1.0/{fm-extra.h,fm-version.h,fm-xml-file.h}
+rm -rf $PKG/usr/lib/libfm-extra.*
+rm -rf $PKG/usr/lib/pkgconfig/libfm-extra.*
+rm -rf $PKG/usr/share/locale
+
+}

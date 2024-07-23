@@ -1,0 +1,23 @@
+# Description: LXQt daemon and library for global keyboard shortcuts registration.
+# URL: https://github.com/lxqt/lxqt-globalkeys
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: liblxqt lxqt-build-tools
+
+name=lxqt-globalkeys
+version=2.0.0
+release=1
+
+source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
+
+build() {
+	mkdir -p build
+	cd build
+	cmake "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=lib \
+		-DCMAKE_BUILD_TYPE=Release \
+		-Wno-dev
+	make
+
+	make DESTDIR="$PKG" install
+}

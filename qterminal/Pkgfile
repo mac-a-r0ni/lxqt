@@ -1,0 +1,26 @@
+# Description: A lightweight Qt-based terminal emulator
+# URL: http://lxqt.org/
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: hicolor-icon-theme layer-shell-qt libcanberra qtermwidget lxqt-build-tools
+
+name=qterminal
+version=2.0.1
+release=1
+
+source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
+
+build() {
+	mkdir -p build
+	cd build
+
+	cmake "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=lib \
+		-DCMAKE_BUILD_TYPE=Release \
+		-Wno-dev
+	make
+
+	make DESTDIR="$PKG" install
+
+	rm -rf $PKG/usr/share/qterminal/translations
+}
