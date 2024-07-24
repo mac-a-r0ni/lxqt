@@ -42,7 +42,7 @@ f:04bab67cdf9cd2d4daa4411bb7d77c42:qps/post-install
 f:27ae1e4d1cc021dde067cc2c79272d82:qps/Pkgfile
 f:0cf4e48fa79a9ab6b1fc487eede51612:qps/.footprint
 f:73e9d27e70a5e000eec29e943326a9e0:libdbusmenu-lxqt/.signature
-f:207bfd4b7a677f25b88184d6d0a9f4cd:libdbusmenu-lxqt/Pkgfile
+f:ad9b26911ef74a27d2a84a73392c5a4a:libdbusmenu-lxqt/Pkgfile
 f:72f6f5d629ec170242e3717c921e1848:libdbusmenu-lxqt/.footprint
 f:73e9d27e70a5e000eec29e943326a9e0:screengrab/.signature
 f:04bab67cdf9cd2d4daa4411bb7d77c42:screengrab/post-install
@@ -78,7 +78,7 @@ f:73e9d27e70a5e000eec29e943326a9e0:xdg-desktop-portal-lxqt/.signature
 f:db7d6b7b23ca5838bd8b659ea3e9bd5d:xdg-desktop-portal-lxqt/Pkgfile
 f:8d910906bce94b8f878baaa2da38cc45:xdg-desktop-portal-lxqt/.footprint
 f:73e9d27e70a5e000eec29e943326a9e0:libqtxdg/.signature
-f:2ff4f2f8973eb97dd2b3b34fa0345f05:libqtxdg/Pkgfile
+f:c27dfc3cc73855b48f00e1ab521ede94:libqtxdg/Pkgfile
 f:45748e2f09ba12fe1b88eb36fe2b17e1:libqtxdg/.footprint
 f:73e9d27e70a5e000eec29e943326a9e0:muparser/.signature
 f:27332e446d805be9a808fe9256f120de:muparser/Pkgfile
@@ -163,5 +163,5 @@ f:73e9d27e70a5e000eec29e943326a9e0:lxqt-admin/.signature
 f:1a3814c65115e91260090ed9a98a4ed8:lxqt-admin/Pkgfile
 f:5d210dac74a3c2e6d0a556b6bd1f770b:lxqt-admin/.footprint
 f:73e9d27e70a5e000eec29e943326a9e0:lxqt/.signature
-f:b058f931597eabf9f6ce855ccd5ea375:lxqt/Pkgfile
+f:cf0f78f34b6a43cd2a1fa516e0265c2a:lxqt/Pkgfile
 f:be28f7bcfd813622700367b7200133e6:lxqt/.footprint
