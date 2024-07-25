@@ -7,7 +7,6 @@ drwxr-xr-x	root/root	usr/bin/
 -rwxr-xr-x	root/root	usr/bin/libfm-pref-apps
 -rwxr-xr-x	root/root	usr/bin/lxshortcut
 drwxr-xr-x	root/root	usr/include/
-lrwxrwxrwx	root/root	usr/include/libfm -> libfm-1.0
 drwxr-xr-x	root/root	usr/include/libfm-1.0/
 -rw-r--r--	root/root	usr/include/libfm-1.0/fm-action.h
 -rw-r--r--	root/root	usr/include/libfm-1.0/fm-actions.h

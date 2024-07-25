@@ -30,6 +30,7 @@ make
 make DESTDIR="$PKG" install
 
 rm -rf $PKG/usr/lib/*.la
+rm -rf $PKG/usr/include/libfm
 rm $PKG/usr/include/libfm-1.0/{fm-extra.h,fm-version.h,fm-xml-file.h}
 rm -rf $PKG/usr/lib/libfm-extra.*
 rm -rf $PKG/usr/lib/pkgconfig/libfm-extra.*
