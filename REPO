@@ -149,6 +149,7 @@ f:04bab67cdf9cd2d4daa4411bb7d77c42:pcmanfm-qt/post-install
 f:651a31114dbf0cfd004cb4a139fda8c3:pcmanfm-qt/Pkgfile
 f:4624a5d9e70066de515bde971ca37e05:pcmanfm-qt/.footprint
 f:73e9d27e70a5e000eec29e943326a9e0:libfm-extra/.signature
+f:2713482b152024d1859b6cfbb15729b7:libfm-extra/post-install
 f:94caee93de66cb3ed69e3b25269347bf:libfm-extra/Pkgfile
 f:69c86fbe5b53a922f9c173f0ef9ddbea:libfm-extra/.footprint
 f:73e9d27e70a5e000eec29e943326a9e0:lxqt-about/.signature
@@ -163,5 +164,5 @@ f:73e9d27e70a5e000eec29e943326a9e0:lxqt-admin/.signature
 f:1a3814c65115e91260090ed9a98a4ed8:lxqt-admin/Pkgfile
 f:5d210dac74a3c2e6d0a556b6bd1f770b:lxqt-admin/.footprint
 f:73e9d27e70a5e000eec29e943326a9e0:lxqt/.signature
-f:cf0f78f34b6a43cd2a1fa516e0265c2a:lxqt/Pkgfile
+f:c95e4a9d09ed05f0d9b6174421a1bdef:lxqt/Pkgfile
 f:be28f7bcfd813622700367b7200133e6:lxqt/.footprint

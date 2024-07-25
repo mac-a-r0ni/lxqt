@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Manually create include dir symlink
+# if included in pkg, the 'libfm' pkg will fail to install
+
+ln -s /usr/include/libfm-1.0 /usr/include/libfm
+
+# End post install file
