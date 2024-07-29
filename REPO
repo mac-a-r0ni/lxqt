@@ -21,6 +21,7 @@ d:lxqt-globalkeys
 d:lxqt-powermanagement
 d:lxqt-archiver
 d:lxqt-menu-data
+d:lxqt-build-tools-qt5
 d:qterminal
 d:libstatgrab
 d:lxqt-qtplugin
@@ -114,6 +115,9 @@ f:42b4d0c336355a9917411531f49e2b9e:lxqt-archiver/.footprint
 f:3b900ca11d1d063c7cec90081d4de1dc:lxqt-menu-data/.signature
 f:221f5cf976385d8ebaaf60ee8dc8b230:lxqt-menu-data/Pkgfile
 f:5370684f8f29dea3f909412dd27b8221:lxqt-menu-data/.footprint
+f:92809c58c9316633824ad2f670dc9d53:lxqt-build-tools-qt5/.signature
+f:b7943f35571f0df6b025d14c6ebbe3e5:lxqt-build-tools-qt5/Pkgfile
+f:f190a83fb912fc94b1ebf10ad28dd528:lxqt-build-tools-qt5/.footprint
 f:0fc0d1c41e2e5221980a7581a43dc7ee:qterminal/.signature
 f:04bab67cdf9cd2d4daa4411bb7d77c42:qterminal/post-install
 f:135578d23916fcf942e8475a9dcc51e9:qterminal/Pkgfile
@@ -163,6 +167,6 @@ f:5c842c9d079508933a386be5c34277e0:lximage-qt/.footprint
 f:a78f569f343dd8b5530c1196bf12f760:lxqt-admin/.signature
 f:1a3814c65115e91260090ed9a98a4ed8:lxqt-admin/Pkgfile
 f:5d210dac74a3c2e6d0a556b6bd1f770b:lxqt-admin/.footprint
-f:b1361f2b69a010619f4f0f9c4db306e2:lxqt/.signature
-f:c95e4a9d09ed05f0d9b6174421a1bdef:lxqt/Pkgfile
+f:d0180938dac95c3a0a62e396be0ee787:lxqt/.signature
+f:478a7a8c257cf47b58ee0b75ba5bafed:lxqt/Pkgfile
 f:be28f7bcfd813622700367b7200133e6:lxqt/.footprint
