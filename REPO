@@ -141,8 +141,8 @@ f:c77da9e24c5893e99a72be3b328e16c5:lxqt-sudo/.footprint
 f:2c33c34c88cb0b8a698d241e2025ef75:libsysstat/.signature
 f:be163d9b45face03e4bb8b13a5ac59cc:libsysstat/Pkgfile
 f:3bbad2a031d3aeb9f6ff200afc1892d2:libsysstat/.footprint
-f:1472908e82c844c502f3738c60d6ff9b:obconf-qt/.signature
-f:b17c0b5f140b8cf0a167b0cdc9c37aba:obconf-qt/Pkgfile
+f:0f7fa3a8b1de7adb583a0ef91f2cee2b:obconf-qt/.signature
+f:7fbe0bdc540b5e1385feca7e1c054d80:obconf-qt/Pkgfile
 f:9af373e9c701fb5784a5ae71e073ce7e:obconf-qt/.footprint
 f:294cbc48b65547a8dbbecf2804b3196e:pcmanfm-qt/.signature
 f:04bab67cdf9cd2d4daa4411bb7d77c42:pcmanfm-qt/post-install

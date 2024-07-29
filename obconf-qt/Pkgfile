@@ -1,7 +1,7 @@
 # Description: The Qt port of obconf, the Openbox configuration tool
 # URL: https://github.com/lxqt/obconf-qt
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: hicolor-icon-theme openbox qt5 lxqt-build-tools
+# Depends on: hicolor-icon-theme openbox qt5 lxqt-build-tools-qt5
 
 name=obconf-qt
 version=0.16.4
