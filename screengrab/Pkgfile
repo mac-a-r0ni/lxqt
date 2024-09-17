@@ -1,7 +1,7 @@
 # Description: Crossplatform tool for grabbing screenshots of your desktop
 # URL: https://github.com/lxqt/screengrab
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: kwindowsystem libqtxdg xorg-libx11 xorg-libxcb qt6-base qt6-tools
+# Depends on: kwindowsystem libqtxdg
 
 name=screengrab
 version=2.8.0

@@ -1,7 +1,7 @@
 # Description: A lightweight Qt-based terminal emulator
 # URL: http://lxqt.org/
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: hicolor-icon-theme layer-shell-qt libcanberra qtermwidget lxqt-build-tools
+# Depends on: hicolor-icon-theme layer-shell-qt libcanberra qtermwidget
 
 name=qterminal
 version=2.0.1

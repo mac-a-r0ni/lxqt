@@ -1,4 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD7WBsIEhwBu+sMwVNUOLQ1L9/KLFGclpvqCbhcrHS9ARwFRKKQLX689hLSTRY14iSFgvs6RgMhi/ZyrnUxcxTQU=
-SHA256 (Pkgfile) = 36b5b8cc7dbd135b908aed0d99fefe17aef252c879887306d1279c89efdc377f
+RWSobSt/++EYD9HzcnXqHytxF922crR5EIVnwB6nvoNW5FBAXfGsHqdkkziNWzD99npeCNMg0iRlpV0t9S3yDGIBQCtpLOGvnwA=
+SHA256 (Pkgfile) = 878ba068fe41ebf4e2c4a62264497a63ac71edbfe97b4dd8a59382fa3a807edd
+SHA256 (.footprint) = 991984c8a4406f709e7edbbbc60e8801446475b2b4139702262b41272f9dcd06
 SHA256 (pcmanfm-qt-2.0.0.tar.xz) = 167958a19f0e826f77887d9b7453f69347e8c74c70ffbf64aeab5d7b4b63cc83

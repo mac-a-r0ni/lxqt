@@ -1,4 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD9jTM5uusODvz98MZvmADIGrtqEwtPc2xSDQ1ji6ElFZRCNj195u5/yNgTVaVt7SI1SIA/jisRNowk/g/DHVdg8=
-SHA256 (Pkgfile) = 192089d61cf3f0b2eb9a47ae87d0fb02e180353842190a98ca90fc68d4a0a169
+RWSobSt/++EYD2MrQrz4XwcJ0HyfNC5jWNxkzd/1K43PFe7eocCWc9E1lJ5X0L1OpalhgM42MbHn1lhTsyV4VdPl7cTQ5pfp3QM=
+SHA256 (Pkgfile) = c14c431b3f7ad438948357977a352d8f997defae89392c243b787cc65ef512bb
+SHA256 (.footprint) = e685fcaf25ff1178ec163a298961ea929dc082352e5548a90e789cd58f24070d
 SHA256 (lxqt-policykit-2.0.0.tar.xz) = 45c2ef396c860dada501f30dbe11ea9c029cbf9b2b8e6e8cce4c27512e43bc88

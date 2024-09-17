@@ -1,4 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYDxm8lUaA9wdrqHaThSxZmPelMq5U8GlTrePyDF/dukRed2z/JFJOmJHzD1s166MRE1aG/N7irvu6Mq1WJWcObg4=
-SHA256 (Pkgfile) = 7f74255d2c2b4a4978b0810a6c328901a81b06033495dd61ba2df963e59963e4
+RWSobSt/++EYD+g6MWWpYyLBOS4e1QYGT1CYD8Nz4PBnaHALOIyHkeTGIo/9I/ZNtS48yqBD51Cw3kqtQOYyMdYh2QCJ0IFcRQc=
+SHA256 (Pkgfile) = 7eef396c25517ac3a1a2caa44e5a78f27a4f9c2273aa2af397e951c50404fcfa
+SHA256 (.footprint) = 211cf62f08221db6706de1ee5f8a97e21e80d304e45e2281fdf1bdc14a59af36
 SHA256 (screengrab-2.8.0.tar.xz) = 4c646ee834d49dd51aba5512f24b626d5178e6decd70f9bd2af6ed93ac7ba8b3

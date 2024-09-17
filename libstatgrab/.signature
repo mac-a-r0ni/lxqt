@@ -1,4 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD9wq0lsw3CcEsPC7yL84U0oJEBKG4AhUm1iKJqNVMKRHByjyvH2qJN9BljpDxg+QAMzxZbU03VfTLZspO+vj4A4=
-SHA256 (Pkgfile) = 70cbea9c0df83d1ce7d296224defcda6396ab2aa2a26dabd3199e0f82b901186
+RWSobSt/++EYD7q/pHFnIPtBfP/ksUgGSw1aXkghJEWhRF+pMib5B0Ju88hrwU+DbNQBBOPTIp8pubzmCEPg4nlitlyl0KYyaQs=
+SHA256 (Pkgfile) = 86998c7246938337ba7de23df3a7ef673a970435eb275450e575cfe1422ac1da
+SHA256 (.footprint) = 8b98eb1f7fab3706e9dc31fc55393676cea28af8bd6ce7e0c899036ee5ae678b
 SHA256 (libstatgrab-0.92.1.tar.gz) = 5688aa4a685547d7174a8a373ea9d8ee927e766e3cc302bdee34523c2c5d6c11

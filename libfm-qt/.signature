@@ -1,4 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD3VNwvBeZuvDUBJ6Qyhm/DjXaMP7kfV5gpcnSsDO26gKlMTdRtE3ffoTAGaG9JHLFgtaPcuWqFfbm/nJR0xTEwo=
-SHA256 (Pkgfile) = ce0eff097ddde55c7b32610b7b704983357b5bee714e4e634e9fa1639e60596a
+RWSobSt/++EYD+ThfEya+OMJs6+i09/tR8TZ41Yb8/diHvp5D5W2l4tZwjQy1opIGJkY5zY0YsZvXt2FZtEG2iif432cp8/DNgU=
+SHA256 (Pkgfile) = f18d0cc1462fdea9b0b4e5e593414c5ddd18acf0de58a5acc15f465635fb1b08
+SHA256 (.footprint) = ed1e851c1b2b48f8fb034e8211f8508ee047d68330a568809e99f7d15ff3ae9c
 SHA256 (libfm-qt-2.0.2.tar.xz) = 411ae1d7d549f34d10389953ded47fba030f128d716373c6af6d45a1bddc2755

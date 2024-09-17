@@ -1,7 +1,7 @@
 # Description: The LXQt Desktop Environment - base/meta port
 # URL: https://lxqt-project.org
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: xorg icu dbus docbook-xsl qt5 qt6-base qt6-svg qt6-tools kguiaddons libkscreen kidletime kwindowsystem solid layer-shell-qt libstatgrab alsa-lib pulseaudio lm_sensors libconfig muparser upower polkit-qt-1 libfm menu-cache hicolor-icon-theme xdg-utils xdg-user-dirs openbox libxslt lxqt-build-tools lxqt-build-tools-qt5 libqtxdg lxqt-menu-data liblxqt libsysstat qtxdg-tools libfm-qt libdbusmenu-lxqt lxqt-globalkeys lxqt-qtplugin qtermwidget lxqt-panel pcmanfm-qt qterminal lxqt-powermanagement lxqt-runner lxqt-themes lxqt-admin lxqt-notificationd lxqt-about lxqt-config lxqt-policykit lxqt-sudo lxqt-openssh-askpass lxqt-session pavucontrol-qt xdg-desktop-portal-lxqt lxqt-archiver screengrab lximage-qt qps obconf-qt
+# Depends on: xorg icu kguiaddons libkscreen kwindowsystem solid libstatgrab alsa-lib pulseaudio libconfig muparser polkit-qt-1 libfm hicolor-icon-theme xdg-utils openbox libxslt lxqt-build-tools libqtxdg lxqt-menu-data liblxqt libsysstat qtxdg-tools libdbusmenu-lxqt lxqt-globalkeys lxqt-qtplugin qtermwidget lxqt-panel pcmanfm-qt qterminal lxqt-powermanagement lxqt-runner lxqt-themes lxqt-admin lxqt-notificationd lxqt-about lxqt-config lxqt-policykit lxqt-sudo lxqt-openssh-askpass lxqt-session pavucontrol-qt xdg-desktop-portal-lxqt lxqt-archiver screengrab lximage-qt qps obconf-qt
 # Optional:
 
 name=lxqt

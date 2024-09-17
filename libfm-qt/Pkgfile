@@ -1,7 +1,7 @@
 # Description: Core library of PCManFM-Qt (Qt binding for libfm
 # URL: https://github.com/lxqt/libfm-qt
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: lxqt-build-tools libexif lxqt-menu-data menu-cache qt6-base
+# Depends on: libexif lxqt-menu-data menu-cache
 # Optional: gnome-keyring keepassxc kwallet
 
 name=libfm-qt

@@ -1,7 +1,7 @@
 # Description: The LXQt policykit authentication agent.
 # URL: https://github.com/lxqt/lxqt-policykit
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: liblxqt polkit-qt-1 lxqt-build-tools
+# Depends on: liblxqt
 
 name=lxqt-policykit
 version=2.0.0

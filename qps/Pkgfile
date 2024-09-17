@@ -1,7 +1,7 @@
 # Description: Qt process viewer and manager
 # URL: https://github.com/lxqt/qps
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: lxqt-build-tools liblxqt qt6-base hicolor-icon-theme
+# Depends on: liblxqt hicolor-icon-theme
 
 name=qps
 version=2.9.0

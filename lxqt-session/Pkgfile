@@ -1,7 +1,7 @@
 # Description: The LXQt session manager
 # URL: https://github.com/lxqt/lxqt-session
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: kwindowsystem layer-shell-qt qtxdg-tools liblxqt lxqt-themes lxqt-build-tools xdg-user-dirs
+# Depends on: layer-shell-qt qtxdg-tools liblxqt lxqt-themes xdg-user-dirs
 # Optional: breeze-icons oxygen-icons
 
 name=lxqt-session

@@ -1,7 +1,7 @@
 # Description: A terminal widget for Qt, used by QTerminal
 # URL: https://github.com/lxqt/qtermwidget
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: qt6-base lxqt-build-tools python3-pyqt-builder python3-installer python3-pyqt6 sip
+# Depends on: lxqt-build-tools python3-pyqt6
 
 name=qtermwidget
 version=2.0.1

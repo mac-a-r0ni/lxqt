@@ -1,7 +1,7 @@
 # Description: File manager and desktop icon manager (Qt port of PCManFM and libfm)
 # URL: https://github.com/lxqt/pcmanfm-qt
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: lxqt-build-tools desktop-file-utils libfm-qt layer-shell-qt
+# Depends on: desktop-file-utils libfm-qt layer-shell-qt
 # Optional: gvfs lxqt-archiver qt6-translations
 
 name=pcmanfm-qt

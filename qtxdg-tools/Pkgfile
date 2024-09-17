@@ -1,7 +1,7 @@
 # Description: libqtxdg user tools
 # URL: https://github.com/lxqt/qtxdg-tools
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: qt6-base libqtxdg qt6-tools lxqt-build-tools
+# Depends on: libqtxdg lxqt-build-tools
 
 name=qtxdg-tools
 version=4.0.0

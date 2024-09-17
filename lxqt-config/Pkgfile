@@ -1,7 +1,7 @@
 # Description: LXQt system configuration
 # URL: https://github.com/lxqt/lxqt-config
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: liblxqt libkscreen libqtxdg xorg-libxcursor xorg-xf86-input-libinput lxqt-build-tools lxqt-menu-data lxqt-themes qt6-base qt6-svg
+# Depends on: liblxqt libkscreen libqtxdg xorg-xf86-input-libinput lxqt-menu-data lxqt-themes qt6-svg
 
 name=lxqt-config
 version=2.0.0

@@ -1,7 +1,7 @@
 # Description: LXQt notification daemon and library
 # URL: https://github.com/lxqt/lxqt-notificationd
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: kwindowsystem layer-shell-qt libqtxdg liblxqt qt6-base lxqt-build-tools
+# Depends on: layer-shell-qt libqtxdg liblxqt
 
 name=lxqt-notificationd
 version=2.0.1

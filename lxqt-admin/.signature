@@ -1,4 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD/dHs7Yfgf5N2BtL38iuMANrRAQVLsr+LugRdJHDZZeylJNwcR/BVFJ/XONGzYMLLVeaw9K+aa0VsBbFYq/S7gw=
-SHA256 (Pkgfile) = f07e197e8a0c432dceb7352e17792e3d84a0ef7adde3210a26a5f743aa6bfde4
+RWSobSt/++EYDyl/L+zK8GCUwY39qsnB/fBeoF1iheW1fp7s4crKy1cFWgVBdgbZ0jVGJjEXdQht+8IHCxt/7GwqeG49B7fyTwY=
+SHA256 (Pkgfile) = 57cc09390d6911f179778db673c838857eef1ea2c13d276f9ddf1cfaaae9a9e9
+SHA256 (.footprint) = c6b2f596b6b8feb587ee81134722ed56c5c9804748a891d2dc6e7bb8e23a1e1e
 SHA256 (lxqt-admin-2.0.0.tar.xz) = 41d56028fd41290e265697f23497e94cfc2d303bcf7d834f5846fbe51654744b
