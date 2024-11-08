@@ -1,10 +1,10 @@
 # Description: Tool used to launch programs quickly by typing their names
 # URL: https://github.com/lxqt/lxqt-runner
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: layer-shell-qt libqtxdg lxqt-globalkeys lxqt-build-tools muparser
+# Depends on: layer-shell-qt libqtxdg lxqt-globalkeys muparser
 
 name=lxqt-runner
-version=2.0.0
+version=2.1.0
 release=1
 
 source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)

@@ -5,10 +5,10 @@
 # Optional: gvfs lxqt-archiver qt6-translations
 
 name=pcmanfm-qt
-version=2.0.0
+version=2.1.0
 release=1
 
-source=(https://github.com/lxqt/pcmanfm-qt/releases/download/2.0.0/pcmanfm-qt-2.0.0.tar.xz)
+source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
 
 build() {
 	mkdir -p build

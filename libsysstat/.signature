@@ -1,4 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYDwPs04GMSLtaNepb/yGEnHDIwB7zTepU3p95qqJImk3PIbPjcMWPFewq87taEilNIIiPVD0/Sg/9ZW6/escSJg0=
-SHA256 (Pkgfile) = 1d9c4c8a42f086c2171d50696426e6acc1c47f963e22ba017a81ff636c26135d
-SHA256 (libsysstat-1.0.0.tar.xz) = f79b5e3e2e79a52b58fab5639f11b7a5f40e4a9995660181712cb4c4cd460435
+RWSobSt/++EYD1wBtbFMT4lbhlR6hI93pRaDzsWxmQqJEKwTKRGZoCwTgAjAweX3yi+/uueDnr64Kl0ZOn/YQkzsgCudlucdPwk=
+SHA256 (Pkgfile) = 734a133ca10f7a46b1edce1045c7db3b44e3fe6b7362069683365f5e6614dbb5
+SHA256 (.footprint) = d91a6727e592e5de6eb81208c20a83413be22e86b9adb7ebc131a0273839de02
+SHA256 (libsysstat-1.1.0.tar.xz) = 996e5e8c43b1364a81a660b56956948c628e919f1d73554df6be152bbec8d430

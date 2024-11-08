@@ -4,10 +4,10 @@
 # Depends on: kwindowsystem lxqt-build-tools polkit-qt-1
 
 name=liblxqt
-version=2.0.0
+version=2.1.0
 release=1
 
-source=(https://github.com/lxqt/liblxqt/archive/2.0.0/liblxqt-2.0.0.tar.gz)
+source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
 
 build() {
 

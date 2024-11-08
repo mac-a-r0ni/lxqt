@@ -3,7 +3,6 @@ drwxr-xr-x	root/root	etc/xdg/
 drwxr-xr-x	root/root	etc/xdg/menus/
 -rw-r--r--	root/root	etc/xdg/menus/lxqt-applications-compact.menu
 -rw-r--r--	root/root	etc/xdg/menus/lxqt-applications-fm.menu
--rw-r--r--	root/root	etc/xdg/menus/lxqt-applications-simple.menu
 -rw-r--r--	root/root	etc/xdg/menus/lxqt-applications.menu
 -rw-r--r--	root/root	etc/xdg/menus/lxqt-config.menu
 drwxr-xr-x	root/root	usr/

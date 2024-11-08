@@ -1,10 +1,10 @@
 # Description: GUI frontend for sudo/su
 # URL: https://github.com/lxqt/lxqt-sudo
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: liblxqt lxqt-build-tools
+# Depends on: liblxqt
 
 name=lxqt-sudo
-version=2.0.0
+version=2.1.0
 release=1
 
 source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)

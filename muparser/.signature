@@ -1,4 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD8fXnc5sKURipIbh5UmfadqEloRD7yZd4RfYImBjZ29Q+Ja7AmXxvPGH58dg9eRLoapn+bydsHyTBPu98CYLwAQ=
+RWSobSt/++EYDy7lb8bTHbFULGCUCkdHFh5YzKWiHIyyWlg8GLbKwkiRwqkY324BLI1/0ymox0t1CeQM8CBH1xqTfWUfNHIuOgo=
 SHA256 (Pkgfile) = 04917b54fb44c09cf1a532ff6bdf603ce23731cf75524768e975910b031f8412
+SHA256 (.footprint) = a8738e5d76313f3beec2d66512609eb004a7b98fee0987a89a154076da4dd68d
 SHA256 (muparser-2.3.4.tar.gz) = 0c3fa54a3ebf36dda0ed3e7cd5451c964afbb15102bdbcba08aafb359a290121

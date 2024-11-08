@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD56m9EmsxHFMhpKxNvSwlAI8PJ9uIAFtdnrCPUTco+/KoiSaPa/QWjYtgPFy0n90I12t33Exoa17/7ZmoCQaSwI=
-SHA256 (Pkgfile) = 0297f6bfceee27587a6a0663c65803e652610138cc343c9373c180c97b8d49a6
+RWSobSt/++EYD8VZDNnpaxLwNIuORGjw2xvx5xQb+ByN0vQBQY9PN25O+8O5+HyO7f0go5kPNif83xbKNhaZjwyQllQsOYTIXwM=
+SHA256 (Pkgfile) = aa541ab47773190a3b50ebc886a10db56c264b4f7f0318dbc36e06dabfb69af6
 SHA256 (.footprint) = aec3014360a5f47dff5ef65727d282d4cd3d7e8e5acdabe23f94a4dec0020c9c
-SHA256 (qtxdg-tools-4.0.0.tar.xz) = 4cd485e2780290d99d7242f605db9f0ffe5ed598cc672ed5e4acef871ce27b3a
+SHA256 (qtxdg-tools-4.1.0.tar.xz) = dbd59b7641091a226fb58222e11b4aeb36e6e65dc235280897d066e59fa966b6

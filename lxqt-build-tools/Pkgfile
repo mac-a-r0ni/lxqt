@@ -4,10 +4,10 @@
 # Depends on: qt6-tools git
 
 name=lxqt-build-tools
-version=2.0.0
+version=2.1.0
 release=1
 
-source=(https://github.com/lxqt/lxqt-build-tools/archive/2.0.0/lxqt-build-tools-2.0.0.tar.gz)
+source=(https://github.com/lxqt/$name/archive/$version/$name-$version.tar.gz)
 
 build() {
 	mkdir -p build

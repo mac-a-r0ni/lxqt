@@ -9,5 +9,6 @@ drwxr-xr-x	root/root	usr/share/dbus-1/
 drwxr-xr-x	root/root	usr/share/dbus-1/services/
 -rw-r--r--	root/root	usr/share/dbus-1/services/org.freedesktop.impl.portal.desktop.lxqt.service
 drwxr-xr-x	root/root	usr/share/xdg-desktop-portal/
+-rw-r--r--	root/root	usr/share/xdg-desktop-portal/lxqt-portals.conf
 drwxr-xr-x	root/root	usr/share/xdg-desktop-portal/portals/
 -rw-r--r--	root/root	usr/share/xdg-desktop-portal/portals/lxqt.portal

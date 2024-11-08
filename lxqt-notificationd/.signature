@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD/B9MwY0/W1HYxjSoMOwQerB6+JK5qizG0n25eGr1xpiNDmeva1iX5hb+S6baIerps6+SKUAtNIhOeGxc5qhWQI=
-SHA256 (Pkgfile) = d40bae4b82d6c0de08817340aef5f8168d523e7f4d2b0dea7f43c7c5876966d5
+RWSobSt/++EYDxjQZDgzeZItVt6uy5j6AAGeulleAMzmgJJMkr5YhKTwAPbTRis9eoKWHCAbNMt3NiC/0+GGCtRV9XOGwe70RQw=
+SHA256 (Pkgfile) = 85bc53cde4c3eb6dd276334dac8ce51e44ee26ed854926ae490fbecb832759ec
 SHA256 (.footprint) = 7736a5801c37cf13899144c97a56d721d63486fb821edea966cb6c16f99d9359
-SHA256 (lxqt-notificationd-2.0.1.tar.xz) = f66366221825774967b4ae4ec658d00128bf4536be779ca02e4406a184262aec
+SHA256 (lxqt-notificationd-2.1.0.tar.xz) = e79e4d57b345333aa350ff8a1dfb8cd9e624beb6910a276c454b459cf580964b

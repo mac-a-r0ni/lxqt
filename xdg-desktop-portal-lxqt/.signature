@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD+Cv5DQwiGWobGXwF3AgxaDc5RltLkTLDtCGI8RAszWq0aGrEjOMi93IH0aV3tNKt8yw9L+GoOfWzkcfejr2ow0=
-SHA256 (Pkgfile) = fc4411b6db3da9d0381565d593570b0c714d7949ace34c032a474f8cad55d361
-SHA256 (.footprint) = 49ebc7e897c9150fbf80d752d7c5edbc293727c00117f8d6b06c95dd78572939
-SHA256 (xdg-desktop-portal-lxqt-1.0.2.tar.xz) = f5ddcf868b0f7d2945193b4584e68610a9d2c72f02fbc4fd83c78fdbcfdb6130
+RWSobSt/++EYDyaYvRo9OxRH/c35OnHNWW/LlA7ojNd3naLoz0X6A9Wup3hWPM4LWAAhe26+oO/xtz2HaU/x0LyTgF84iOW4NAY=
+SHA256 (Pkgfile) = b322a4942a342695fc8c313f64bf3d29807dc5720d1df83c138f50b45017caa3
+SHA256 (.footprint) = ecbeba265f0c2458dbd4c9c5b2d4385a1732e8649a6dc4368a9eda970620e465
+SHA256 (xdg-desktop-portal-lxqt-1.1.0.tar.xz) = 6be7c08f586f139f75099f27999116ad7cba98b11dbf1d7566fd6bc134538c60

@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYDxdBMF/0gsbjhNmZVxIzG8el8jYHeA0RdBEVPoc7urxY8EUZQ6jWhpGCZk0WKicR0+Ds5niYzpMsjv2+IARsNA8=
-SHA256 (Pkgfile) = 7973b5fe4c127a7f17f3024484365df5db3a7f2a55e88183d4f39818b38a825a
+RWSobSt/++EYD1LcX8b10VN7chae8OKHClNLNcu1FYc4SfOQgh0ToQWCDipLYZlPEq7K7xDaiQ96ZTGfLGz1pm0tjMv/1zJQuAE=
+SHA256 (Pkgfile) = 69b46e98bfd61550f1a64e44fe3d8471074f2b45145cef1d43968bab7f9ef523
 SHA256 (.footprint) = 723127ff01735da97b9b47268417ce281af28cb1d5d0d1056a83c9bb4d373928
-SHA256 (libdbusmenu-lxqt-0.1.0.tar.xz) = a82d77375034b0f27e6e08b5c7ad9c19ee88e8d7bb699ee0423a5a0e781fb291
+SHA256 (libdbusmenu-lxqt-0.2.0.tar.xz) = 8c22a77c7f69061e5b880cc76ddfc9391b80ee7449485806adecb7123501d84e

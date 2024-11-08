@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD/Cqry1NG5j8U/kA+hI4HKpOI7c903XdaqcYyvQNN+6SwkAIk4lBQ8Ki5JaAoRjIdY3kRft9E6m0SG28sznL+Qk=
-SHA256 (Pkgfile) = 878309f6b0f5e4bce8ab5419d9faad326fc685d3b0440f1a3a6a9f89c980b155
-SHA256 (.footprint) = 6b5ee3103919603c3f5a161bca0c89d9213e6cf40e4c7c2a47b963cc05304b0a
-SHA256 (qtermwidget-2.0.1.tar.xz) = b50060d4f6435efd3df0c37eb1ff7266cacbbe0d06c6ccb6b102c1ec90e9379d
+RWSobSt/++EYD52pim8KI87PDK5ZWE6KBKeNHB6RTiSp3LD0T8xqDKjELNW0v56onNypI7sD8al4bea/ItS9811fv3GsgEAPBAg=
+SHA256 (Pkgfile) = c4f237a728a10f6acf61b69e5c4520c38a95e38ffb96c9760ad5368b6ba8f852
+SHA256 (.footprint) = 2fe742fb933082248c95fe703c4dfb8cf73fef48996d08ca0c2f35f93951af74
+SHA256 (qtermwidget-2.1.0.tar.xz) = 26ecb2c3a38de10db3b5ae24970957a33520f7742e3ae1ff93d345ded2be8e4b

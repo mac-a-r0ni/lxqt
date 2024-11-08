@@ -1,4 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD4seP6mIWRkn6DwIrR3GfK+LMDbUtNt1wHQkH66eDTreEStCKdlXUTAiPmr2jQv1+KIzLybX4i4yBTW0nijwFQU=
-SHA256 (Pkgfile) = 6fca9adc89f3955241b61411b7df143412178ae2ab2395c4fc595135e43d84a7
-SHA256 (lxqt-themes-2.0.0.tar.xz) = 927aa0bd8ecf718c4a91e820277af12a24d329b99e9e7ca4868311c1de76911d
+RWSobSt/++EYDwkkKrH9cobuNKJQsI0qpaQDBesFijMiC40tWH7aC1EimDE10clD0CkD0sh/Ok74/FDnHguBvquFqySiOqfRbQU=
+SHA256 (Pkgfile) = d3c91a867c5c6d4e92842bd2aeada638573854beb673227912710e5cd1205983
+SHA256 (.footprint) = 4f09c9993d10d13998f8b76590bed5f60669ef704f00f5a457df190404f9c396
+SHA256 (lxqt-themes-2.1.0.tar.xz) = cdd0101c5a53a0e49315c7af3ba784e70a8a2410526eab3d63f32a6678bd0fac

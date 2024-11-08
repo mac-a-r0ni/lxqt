@@ -29,18 +29,18 @@ drwxr-xr-x	root/root	usr/include/qt6xdg/
 -rw-r--r--	root/root	usr/include/qt6xdg/xdgmimetype.h
 -rw-r--r--	root/root	usr/include/qt6xdg/xmlhelper.h
 drwxr-xr-x	root/root	usr/include/qt6xdgiconloader/
-drwxr-xr-x	root/root	usr/include/qt6xdgiconloader/4.0.0/
-drwxr-xr-x	root/root	usr/include/qt6xdgiconloader/4.0.0/private/
-drwxr-xr-x	root/root	usr/include/qt6xdgiconloader/4.0.0/private/xdgiconloader/
--rw-r--r--	root/root	usr/include/qt6xdgiconloader/4.0.0/private/xdgiconloader/xdgiconloader_p.h
+drwxr-xr-x	root/root	usr/include/qt6xdgiconloader/4.1.0/
+drwxr-xr-x	root/root	usr/include/qt6xdgiconloader/4.1.0/private/
+drwxr-xr-x	root/root	usr/include/qt6xdgiconloader/4.1.0/private/xdgiconloader/
+-rw-r--r--	root/root	usr/include/qt6xdgiconloader/4.1.0/private/xdgiconloader/xdgiconloader_p.h
 -rw-r--r--	root/root	usr/include/qt6xdgiconloader/xdgiconloader_export.h
 drwxr-xr-x	root/root	usr/lib/
 lrwxrwxrwx	root/root	usr/lib/libQt6Xdg.so -> libQt6Xdg.so.4
-lrwxrwxrwx	root/root	usr/lib/libQt6Xdg.so.4 -> libQt6Xdg.so.4.0.0
--rwxr-xr-x	root/root	usr/lib/libQt6Xdg.so.4.0.0
+lrwxrwxrwx	root/root	usr/lib/libQt6Xdg.so.4 -> libQt6Xdg.so.4.1.0
+-rwxr-xr-x	root/root	usr/lib/libQt6Xdg.so.4.1.0
 lrwxrwxrwx	root/root	usr/lib/libQt6XdgIconLoader.so -> libQt6XdgIconLoader.so.4
-lrwxrwxrwx	root/root	usr/lib/libQt6XdgIconLoader.so.4 -> libQt6XdgIconLoader.so.4.0.0
--rwxr-xr-x	root/root	usr/lib/libQt6XdgIconLoader.so.4.0.0
+lrwxrwxrwx	root/root	usr/lib/libQt6XdgIconLoader.so.4 -> libQt6XdgIconLoader.so.4.1.0
+-rwxr-xr-x	root/root	usr/lib/libQt6XdgIconLoader.so.4.1.0
 drwxr-xr-x	root/root	usr/lib/pkgconfig/
 -rw-r--r--	root/root	usr/lib/pkgconfig/Qt6Xdg.pc
 -rw-r--r--	root/root	usr/lib/pkgconfig/Qt6XdgIconLoader.pc

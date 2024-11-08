@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/lxqt.pub
+RWSobSt/++EYD60x6CUUISt8oVPRnfVU0SFQ48laDSdnsO/cidKy/KDDeS56QGMe7/sAgDXVQtXmTZeB5K56inPvNvr0xdqjoA8=
+SHA256 (Pkgfile) = 4fd1dc9d21b58d38d3f3839929c2465e5975dd05f7f21bf9f0e50d64327f3de1
+SHA256 (.footprint) = d94b8525b068f7b45c19defb0a80eeeec09228ce795085cfe1edc1eba3764a8c
+SHA256 (lxqt-wayland-session-0.1.0.tar.xz) = 123d381902526f12cee5d846fd4b67f0be81d0508adc3342ffb99ee098054da8

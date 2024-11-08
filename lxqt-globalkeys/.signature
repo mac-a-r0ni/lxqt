@@ -1,4 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYDwiiGNrTmkym5Qktt9ZdF4Z960uPZPiq33D7svhhMnzJuhMQ4EV4H3chjYDh+NwIX7RdyxJW3+WRiLBZ2WCXwg8=
-SHA256 (Pkgfile) = bb45aff0311b1c3d5be787b4a5652834acde729f3d0191168845516935c1b9aa
-SHA256 (lxqt-globalkeys-2.0.0.tar.xz) = 13e7a72686890a40b65d8ae13c79ed287eb971fbc0285769c40c8b97e7af43f7
+RWSobSt/++EYDxk+0aWikF7VKzSjMkdCe57hL1emwNiFB2zBRywLP/TI0rGQoftlgOYMy7x/CkXE7f0+9N+eaXndZ37eQtD8oQ0=
+SHA256 (Pkgfile) = 97186938b56b22d8f749edf7c3ab4f3f1c3ba2d36cf527af735a86920b1099f5
+SHA256 (.footprint) = 5e669306bb9d975d6e208dacaef71c85a659dd10a934d42907719f29bc73d073
+SHA256 (lxqt-globalkeys-2.1.0.tar.xz) = 70cc56c452626a2c3ceb7ade8745ed61bac10c7d9aa082443a74aba1e3942874

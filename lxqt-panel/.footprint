@@ -13,6 +13,10 @@ drwxr-xr-x	root/root	usr/include/lxqt/
 -rw-r--r--	root/root	usr/include/lxqt/pluginsettings.h
 drwxr-xr-x	root/root	usr/lib/
 drwxr-xr-x	root/root	usr/lib/lxqt-panel/
+drwxr-xr-x	root/root	usr/lib/lxqt-panel/backend/
+-rwxr-xr-x	root/root	usr/lib/lxqt-panel/backend/libwmbackend_kwin_wayland.so
+-rwxr-xr-x	root/root	usr/lib/lxqt-panel/backend/libwmbackend_wlroots.so
+-rwxr-xr-x	root/root	usr/lib/lxqt-panel/backend/libwmbackend_xcb.so
 -rwxr-xr-x	root/root	usr/lib/lxqt-panel/libbacklight.so
 -rwxr-xr-x	root/root	usr/lib/lxqt-panel/libcolorpicker.so
 -rwxr-xr-x	root/root	usr/lib/lxqt-panel/libcpuload.so
@@ -27,6 +31,8 @@ drwxr-xr-x	root/root	usr/lib/lxqt-panel/
 -rwxr-xr-x	root/root	usr/lib/lxqt-panel/libsysstat.so
 -rwxr-xr-x	root/root	usr/lib/lxqt-panel/libvolume.so
 drwxr-xr-x	root/root	usr/share/
+drwxr-xr-x	root/root	usr/share/applications/
+-rw-r--r--	root/root	usr/share/applications/lxqt-panel.desktop
 drwxr-xr-x	root/root	usr/share/lxqt/
 drwxr-xr-x	root/root	usr/share/lxqt/lxqt-panel/
 -rw-r--r--	root/root	usr/share/lxqt/lxqt-panel/backlight.desktop
@@ -103,7 +109,6 @@ drwxr-xr-x	root/root	usr/share/lxqt/panel/qeyes-types/PumpkinMonster/
 -rw-r--r--	root/root	usr/share/lxqt/panel/qeyes-types/PumpkinMonster/config
 -rw-r--r--	root/root	usr/share/lxqt/panel/qeyes-types/PumpkinMonster/eye.png
 -rw-r--r--	root/root	usr/share/lxqt/panel/qeyes-types/PumpkinMonster/pupil.png
--rw-r--r--	root/root	usr/share/lxqt/panel/qeyes-types/README
 drwxr-xr-x	root/root	usr/share/lxqt/panel/qeyes-types/Tango/
 -rw-r--r--	root/root	usr/share/lxqt/panel/qeyes-types/Tango/config
 -rw-r--r--	root/root	usr/share/lxqt/panel/qeyes-types/Tango/tango-eye.png

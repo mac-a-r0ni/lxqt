@@ -9,7 +9,6 @@ drwxr-xr-x	root/root	usr/share/icons/hicolor/scalable/places/
 -rw-r--r--	root/root	usr/share/icons/hicolor/scalable/places/start-here-lxqt.svg
 drwxr-xr-x	root/root	usr/share/lxqt/
 drwxr-xr-x	root/root	usr/share/lxqt/graphics/
--rw-r--r--	root/root	usr/share/lxqt/graphics/README
 -rw-r--r--	root/root	usr/share/lxqt/graphics/helix-bright.png
 -rw-r--r--	root/root	usr/share/lxqt/graphics/helix-lxqt-shadow.png
 -rw-r--r--	root/root	usr/share/lxqt/graphics/helix-shadow-effect.png
@@ -30,10 +29,15 @@ lrwxrwxrwx	root/root	usr/share/lxqt/graphics/lxqt_logo_doxygen.png -> helix_60.p
 drwxr-xr-x	root/root	usr/share/lxqt/palettes/
 -rw-r--r--	root/root	usr/share/lxqt/palettes/Ambiance
 -rw-r--r--	root/root	usr/share/lxqt/palettes/Arch-Colors
+-rw-r--r--	root/root	usr/share/lxqt/palettes/Clearlooks
 -rw-r--r--	root/root	usr/share/lxqt/palettes/Dark
+-rw-r--r--	root/root	usr/share/lxqt/palettes/Frost
+-rw-r--r--	root/root	usr/share/lxqt/palettes/KDE-Plasma
+-rw-r--r--	root/root	usr/share/lxqt/palettes/Kvantum
 -rw-r--r--	root/root	usr/share/lxqt/palettes/Leech
+-rw-r--r--	root/root	usr/share/lxqt/palettes/Light
+-rw-r--r--	root/root	usr/share/lxqt/palettes/Silver
 -rw-r--r--	root/root	usr/share/lxqt/palettes/Silver-bright
--rw-r--r--	root/root	usr/share/lxqt/palettes/Silver-dark
 -rw-r--r--	root/root	usr/share/lxqt/palettes/Valendas
 drwxr-xr-x	root/root	usr/share/lxqt/themes/
 drwxr-xr-x	root/root	usr/share/lxqt/themes/Arch-Colors/
@@ -46,6 +50,7 @@ drwxr-xr-x	root/root	usr/share/lxqt/themes/Arch-Colors/calendar-popup/
 -rw-r--r--	root/root	usr/share/lxqt/themes/Arch-Colors/calendar-popup/right-arrow.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/Arch-Colors/checked.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/Arch-Colors/color-picker.svg
+-rw-r--r--	root/root	usr/share/lxqt/themes/Arch-Colors/lxqt-config.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/Arch-Colors/lxqt-notificationd.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/Arch-Colors/lxqt-panel.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/Arch-Colors/lxqt-runner.qss
@@ -71,6 +76,7 @@ drwxr-xr-x	root/root	usr/share/lxqt/themes/Clearlooks/calendar-popup/
 -rw-r--r--	root/root	usr/share/lxqt/themes/Clearlooks/calendar-popup/right-arrow.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/Clearlooks/checked-selected.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/Clearlooks/checked.svg
+-rw-r--r--	root/root	usr/share/lxqt/themes/Clearlooks/lxqt-config.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/Clearlooks/lxqt-notificationd.qss
 drwxr-xr-x	root/root	usr/share/lxqt/themes/Clearlooks/lxqt-notificationd/
 -rw-r--r--	root/root	usr/share/lxqt/themes/Clearlooks/lxqt-notificationd/cancel.svg
@@ -90,6 +96,7 @@ drwxr-xr-x	root/root	usr/share/lxqt/themes/Clearlooks/spacer-plugin/
 drwxr-xr-x	root/root	usr/share/lxqt/themes/KDE-Plasma/
 -rw-r--r--	root/root	usr/share/lxqt/themes/KDE-Plasma/checked.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/KDE-Plasma/left-arrow.svg
+-rw-r--r--	root/root	usr/share/lxqt/themes/KDE-Plasma/lxqt-config.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/KDE-Plasma/lxqt-notificationd.qss
 drwxr-xr-x	root/root	usr/share/lxqt/themes/KDE-Plasma/lxqt-notificationd/
 -rw-r--r--	root/root	usr/share/lxqt/themes/KDE-Plasma/lxqt-notificationd/window-close.svg
@@ -115,6 +122,7 @@ drwxr-xr-x	root/root	usr/share/lxqt/themes/Leech/calendar-popup/
 -rw-r--r--	root/root	usr/share/lxqt/themes/Leech/calendar-popup/left-arrow.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/Leech/calendar-popup/right-arrow.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/Leech/checked.svg
+-rw-r--r--	root/root	usr/share/lxqt/themes/Leech/lxqt-config.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/Leech/lxqt-notificationd.qss
 drwxr-xr-x	root/root	usr/share/lxqt/themes/Leech/lxqt-notificationd/
 -rw-r--r--	root/root	usr/share/lxqt/themes/Leech/lxqt-notificationd/cancel.svg
@@ -138,6 +146,7 @@ drwxr-xr-x	root/root	usr/share/lxqt/themes/Valendas/
 drwxr-xr-x	root/root	usr/share/lxqt/themes/Valendas/calendar-popup/
 -rw-r--r--	root/root	usr/share/lxqt/themes/Valendas/calendar-popup/left-arrow.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/Valendas/calendar-popup/right-arrow.svg
+-rw-r--r--	root/root	usr/share/lxqt/themes/Valendas/lxqt-config.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/Valendas/lxqt-notificationd.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/Valendas/lxqt-panel.qss
 drwxr-xr-x	root/root	usr/share/lxqt/themes/Valendas/lxqt-runner/
@@ -154,6 +163,7 @@ drwxr-xr-x	root/root	usr/share/lxqt/themes/ambiance/
 -rw-r--r--	root/root	usr/share/lxqt/themes/ambiance/arrow-left.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/ambiance/arrow-right.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/ambiance/checked.svg
+-rw-r--r--	root/root	usr/share/lxqt/themes/ambiance/lxqt-config.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/ambiance/lxqt-notificationd.qss
 drwxr-xr-x	root/root	usr/share/lxqt/themes/ambiance/lxqt-notificationd/
 -rw-r--r--	root/root	usr/share/lxqt/themes/ambiance/lxqt-notificationd/cancel.svg
@@ -176,6 +186,7 @@ drwxr-xr-x	root/root	usr/share/lxqt/themes/dark/calendar-popup/
 -rw-r--r--	root/root	usr/share/lxqt/themes/dark/calendar-popup/left-arrow.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/dark/calendar-popup/right-arrow.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/dark/checked.svg
+-rw-r--r--	root/root	usr/share/lxqt/themes/dark/lxqt-config.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/dark/lxqt-notificationd.qss
 drwxr-xr-x	root/root	usr/share/lxqt/themes/dark/lxqt-notificationd/
 -rw-r--r--	root/root	usr/share/lxqt/themes/dark/lxqt-notificationd/cancel.svg
@@ -198,6 +209,7 @@ drwxr-xr-x	root/root	usr/share/lxqt/themes/frost/calendar-popup/
 -rw-r--r--	root/root	usr/share/lxqt/themes/frost/calendar-popup/left-arrow.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/frost/calendar-popup/right-arrow.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/frost/debug.png
+-rw-r--r--	root/root	usr/share/lxqt/themes/frost/lxqt-config.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/frost/lxqt-notificationd.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/frost/lxqt-panel.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/frost/lxqt-runner.qss
@@ -243,6 +255,7 @@ drwxr-xr-x	root/root	usr/share/lxqt/themes/kvantum/spacer-plugin/
 -rw-r--r--	root/root	usr/share/lxqt/themes/kvantum/spacer-plugin/spacer-line.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/kvantum/wallpaper.cfg
 drwxr-xr-x	root/root	usr/share/lxqt/themes/light/
+-rw-r--r--	root/root	usr/share/lxqt/themes/light/lxqt-config.qss
 drwxr-xr-x	root/root	usr/share/lxqt/themes/light/lxqt-lightdm-greeter/
 -rw-r--r--	root/root	usr/share/lxqt/themes/light/lxqt-lightdm-greeter/dropdown.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/light/lxqt-lightdm-greeter/leaveIcon.svg
@@ -271,6 +284,7 @@ drwxr-xr-x	root/root	usr/share/lxqt/themes/silver/calendar-popup/
 -rw-r--r--	root/root	usr/share/lxqt/themes/silver/calendar-popup/left-arrow.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/silver/calendar-popup/right-arrow.svg
 -rw-r--r--	root/root	usr/share/lxqt/themes/silver/checked.svg
+-rw-r--r--	root/root	usr/share/lxqt/themes/silver/lxqt-config.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/silver/lxqt-notificationd.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/silver/lxqt-panel.qss
 -rw-r--r--	root/root	usr/share/lxqt/themes/silver/lxqt-runner.qss

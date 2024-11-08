@@ -1,11 +1,11 @@
 # Description: A lightweight desktop-agnostic Qt file archiver
 # URL: https://github.com/lxqt/lxqt-archiver
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: glib json-glib libfm-qt qt6-base lxqt-build-tools qt6-tools
+# Depends on: json-glib libfm-qt
 # Optional: libarchive p7zip
 
 name=lxqt-archiver
-version=1.0.0
+version=1.1.0
 release=1
 
 source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)

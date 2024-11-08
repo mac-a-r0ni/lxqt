@@ -4,7 +4,7 @@
 # Depends on: qt6-base
 
 name=libdbusmenu-lxqt
-version=0.1.0
+version=0.2.0
 release=1
 
 source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)

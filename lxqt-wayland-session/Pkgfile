@@ -1,10 +1,11 @@
-# Description: LXQt power management daemon
-# URL: https://github.com/lxqt/lxqt-powermanagement
+# Description: The LXQt session manager for Wayland
+# URL: https://github.com/lxqt/lxqt-wayland-session
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: libqtxdg hicolor-icon-theme kidletime solid qt6-svg upower lxqt-build-tools
+# Depends on: wayland layer-shell-qt qtxdg-tools liblxqt lxqt-themes xdg-user-dirs
+# Optional: hyprland kwin labwc river sway wayfire
 
-name=lxqt-powermanagement
-version=2.1.0
+name=lxqt-wayland-session
+version=0.1.0
 release=1
 
 source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
@@ -19,6 +20,4 @@ build() {
 	make
 
 	make DESTDIR="$PKG" install
-
-rm -rf $PKG/usr/share/lxqt/translations
 }

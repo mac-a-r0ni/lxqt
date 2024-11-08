@@ -4,10 +4,10 @@
 # Depends on: xorg-libsm xorg-libxcb
 
 name=libqtxdg
-version=4.0.0
+version=4.1.0
 release=1
 
-source=(https://github.com/lxqt/libqtxdg/archive/4.0.0/libqtxdg-4.0.0.tar.gz)
+source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
 
 build() {
 	mkdir -p build

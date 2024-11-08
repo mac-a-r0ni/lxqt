@@ -1,11 +1,11 @@
 # Description: The LXQt Desktop Environment - base/meta port
 # URL: https://lxqt-project.org
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: xorg icu kguiaddons libkscreen kwindowsystem solid libstatgrab alsa-lib pulseaudio libconfig muparser polkit-qt-1 libfm hicolor-icon-theme xdg-utils openbox libxslt lxqt-build-tools libqtxdg lxqt-menu-data liblxqt libsysstat qtxdg-tools libdbusmenu-lxqt lxqt-globalkeys lxqt-qtplugin qtermwidget lxqt-panel pcmanfm-qt qterminal lxqt-powermanagement lxqt-runner lxqt-themes lxqt-admin lxqt-notificationd lxqt-about lxqt-config lxqt-policykit lxqt-sudo lxqt-openssh-askpass lxqt-session pavucontrol-qt xdg-desktop-portal-lxqt lxqt-archiver screengrab lximage-qt qps obconf-qt
+# Depends on: xorg icu kguiaddons libkscreen libstatgrab alsa-lib pulseaudio libconfig muparser polkit-qt-1 libfm hicolor-icon-theme xdg-utils openbox libxslt lxqt-build-tools libqtxdg lxqt-menu-data liblxqt libdbusmenu-lxqt lxqt-globalkeys lxqt-qtplugin qtermwidget lxqt-panel pcmanfm-qt qterminal lxqt-powermanagement lxqt-runner lxqt-themes lxqt-admin lxqt-notificationd lxqt-about lxqt-config lxqt-policykit lxqt-sudo lxqt-openssh-askpass lxqt-session pavucontrol-qt xdg-desktop-portal-lxqt lxqt-archiver screengrab lximage-qt qps obconf-qt
 # Optional:
 
 name=lxqt
-version=2.0.0
+version=2.1.0
 release=1
 source=()
 

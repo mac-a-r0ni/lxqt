@@ -4,7 +4,7 @@
 # Depends on: lxqt-build-tools python3-pyqt6
 
 name=qtermwidget
-version=2.0.1
+version=2.1.0
 release=1
 
 source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)

@@ -16,8 +16,8 @@ drwxr-xr-x	root/root	usr/include/sysstat-qt6/SysStat/
 -rw-r--r--	root/root	usr/include/sysstat-qt6/version.h
 drwxr-xr-x	root/root	usr/lib/
 lrwxrwxrwx	root/root	usr/lib/libsysstat-qt6.so -> libsysstat-qt6.so.1
-lrwxrwxrwx	root/root	usr/lib/libsysstat-qt6.so.1 -> libsysstat-qt6.so.1.0.0
--rwxr-xr-x	root/root	usr/lib/libsysstat-qt6.so.1.0.0
+lrwxrwxrwx	root/root	usr/lib/libsysstat-qt6.so.1 -> libsysstat-qt6.so.1.1.0
+-rwxr-xr-x	root/root	usr/lib/libsysstat-qt6.so.1.1.0
 drwxr-xr-x	root/root	usr/lib/pkgconfig/
 -rw-r--r--	root/root	usr/lib/pkgconfig/sysstat-qt6.pc
 drwxr-xr-x	root/root	usr/share/

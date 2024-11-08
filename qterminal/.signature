@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYDxzqJu6h12iNPRW+dDPsSYAYLh0hwbrTSASSZ+K+jayH6VAOtpP9vb7HSdU4gasKm7YWdZ0hBgEIoZkBSwCp9wQ=
-SHA256 (Pkgfile) = 4a8f55bee281607b90dd4c26012d95ba371f140184c9d7962b0ffd6d510d6091
+RWSobSt/++EYD8e41VX2q1R3+17DLV+mg2CNjxxNJ+/op5DuG3jAOsn36bEKulhwZeoNUUqWL2EtLaOIzNeOAOzUer8/zx+QqQU=
+SHA256 (Pkgfile) = c09d83bce2afa6e696e59ceefa6fa0d4911cdc1e1bcf2cfc94fc205e06aeaebc
 SHA256 (.footprint) = 93e9051debb10234a302a4714a7f23bd8dd68384ff763fd6e91eff0e70990011
-SHA256 (qterminal-2.0.1.tar.xz) = bd078ebaa03dac49224bb63fbfb73aa1f19b6e002807da6fe15f80c189a2dbd4
+SHA256 (qterminal-2.1.0.tar.xz) = a65e788645bc694ede5d89de4118ee88443e0d6cbc388b0ce50d5c5d07b1213c
