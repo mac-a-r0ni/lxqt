@@ -6,6 +6,7 @@ d:lxqt-build-tools
 d:libfm-extra
 d:lxqt-build-tools-qt5
 d:muparser
+d:labwc
 d:lxqt
 d:lxqt-wallet
 d:lxqt-themes
@@ -19,6 +20,7 @@ d:libqtxdg
 d:libstatgrab
 d:libfm
 d:obconf-qt
+d:libsfdo
 d:lxqt-sudo
 d:lxqt-openssh-askpass
 d:lxqt-runner
@@ -65,6 +67,10 @@ f:b7943f35571f0df6b025d14c6ebbe3e5:lxqt-build-tools-qt5/Pkgfile
 f:d31277737e4ad7805a63701f2a269e3d:muparser/.signature
 f:dbb0b56c57a5763e155490ec2543c738:muparser/.footprint
 f:27332e446d805be9a808fe9256f120de:muparser/Pkgfile
+f:f2d6458f440c186deed1c953bc80f8f1:labwc/README
+f:5cabe19b4369882c47a18b67cfe31e53:labwc/.signature
+f:d5db36b2c060c99acd84abe1ad0cfa57:labwc/.footprint
+f:08e7025d4c1ebd5afe0e69ed7ac1d48c:labwc/Pkgfile
 f:600ee42c923c2e62808023eab64cbf64:README.md
 f:792893df847f8b5d2123c85377ae460e:lxqt/.signature
 f:be28f7bcfd813622700367b7200133e6:lxqt/.footprint
@@ -112,6 +118,9 @@ f:a64fd4b101c1db284319ae8ec8bf84b1:libfm/Pkgfile
 f:ebd6e99f7643c9cb95a49d05f08953ed:obconf-qt/.signature
 f:9af373e9c701fb5784a5ae71e073ce7e:obconf-qt/.footprint
 f:90e351ce09da59edd50f44b13d273d91:obconf-qt/Pkgfile
+f:ad5d2fb00b0c9d0450a267d23127b193:libsfdo/.signature
+f:885f144b7306fab59261509e5892cb3a:libsfdo/.footprint
+f:0a9e36106796ed15b465f46933829a69:libsfdo/Pkgfile
 f:acd92ca457058811b8107bdde6118e47:lxqt-sudo/.signature
 f:c77da9e24c5893e99a72be3b328e16c5:lxqt-sudo/.footprint
 f:a06d7233e54bd1bb79f85e3d5144678c:lxqt-sudo/Pkgfile
@@ -122,7 +131,7 @@ f:8e195e7cd3493fbd6b2deb87e6530041:lxqt-runner/.signature
 f:f2dc051761bb2987e7f2acdf79c46476:lxqt-runner/.footprint
 f:3049f7c8e4e0c0b0f6896a4efae89f55:lxqt-runner/Pkgfile
 f:0cde8993de8f7c7b5564e2f4a3adc428:lxqt.httpup
-f:4141bcc90d8edbc026f3323864a47a01:libdbusmenu-lxqt/.signature
+f:6b07a6871473506141acf0b1dc35b27d:libdbusmenu-lxqt/.signature
 f:2f483f80cfcebf79627c936d12588fba:libdbusmenu-lxqt/.footprint
 f:d094f0df3334b91705e746e72563fa35:libdbusmenu-lxqt/Pkgfile
 f:1d04b590396020de26f658254e9be2b7:lxqt-panel/.signature
