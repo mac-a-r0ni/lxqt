@@ -145,8 +145,8 @@ f:0cde8993de8f7c7b5564e2f4a3adc428:lxqt.httpup
 f:6a7068cdd252bd8c9abd40465f8f0962:lxqt-build-tools/.signature
 f:34ab11ffc6202238844b8464a6be3256:lxqt-build-tools/Pkgfile
 f:b0bd3221318d52496f64ddd082f0818b:lxqt-build-tools/.footprint
-f:53650da9fa7e29c4a4e30423f95d8f81:lxqt-notificationd/.signature
-f:1cbbfeb3aad0d5c62978b43cd6435fd6:lxqt-notificationd/Pkgfile
+f:04b543e6e2e50f5eae98ed05e3727f45:lxqt-notificationd/.signature
+f:6a4e6657012b92689083648c21b6e014:lxqt-notificationd/Pkgfile
 f:7e9edc6a57a90df31e90b7ee6cd02e40:lxqt-notificationd/.footprint
 f:14307143fdf1642920db1ab761579797:lxqt-config/.signature
 f:ed2014dd0f5944e62c1e6a160e17ad23:lxqt-config/post-install
