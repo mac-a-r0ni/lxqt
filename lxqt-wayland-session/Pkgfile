@@ -1,7 +1,7 @@
 # Description: The LXQt session manager for Wayland
 # URL: https://github.com/lxqt/lxqt-wayland-session
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: wayland layer-shell-qt qtxdg-tools liblxqt lxqt-themes xdg-user-dirs
+# Depends on: layer-shell-qt qtxdg-tools liblxqt lxqt-themes xdg-user-dirs
 # Optional: hyprland kwin labwc river sway wayfire
 
 name=lxqt-wayland-session
