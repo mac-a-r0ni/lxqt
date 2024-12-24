@@ -52,8 +52,8 @@ f:89643ef98188d4bbdfb69853cccb9ca2:screengrab/.signature
 f:04bab67cdf9cd2d4daa4411bb7d77c42:screengrab/post-install
 f:d933bb11336fcbaca15ed73b76b91a20:screengrab/Pkgfile
 f:afa676de3020fa12bcf399fc20715f79:screengrab/.footprint
-f:01465a5c6f12f15a43d39360af998e48:lxqt-session/.signature
-f:bf8ac32aceafbc19103b28635a85805e:lxqt-session/Pkgfile
+f:3b9cf13b41ead3cd92303a84b1660527:lxqt-session/.signature
+f:6b07b4ee7f053fea406ad3ce4071ea27:lxqt-session/Pkgfile
 f:109443e3b18c15c0e08dacc6b4b7d534:lxqt-session/.footprint
 f:adb1d1ac9753d62346f2dc311d4c1581:liblxqt/.signature
 f:af7493cc09a198bed071dd6f6353af9d:liblxqt/Pkgfile
@@ -119,9 +119,9 @@ f:c5f32d9a4e9cd22895403ff6064f3765:labwc/.signature
 f:f2d6458f440c186deed1c953bc80f8f1:labwc/README
 f:85918d4350ccacbadd28eb6e7b083630:labwc/Pkgfile
 f:d5db36b2c060c99acd84abe1ad0cfa57:labwc/.footprint
-f:0be3f201a5b1b9549548c9497b712876:lxqt-wallet/.signature
-f:0191c20fc6438d051e88fc2bdf7f9c78:lxqt-wallet/Pkgfile
-f:1daf2a224e248a84b969bb24f4eb8a07:lxqt-wallet/.footprint
+f:3bcd7b6e9be9905886a734cdae79ff83:lxqt-wallet/.signature
+f:d28abde4304dba32f32299d8b9e81b35:lxqt-wallet/Pkgfile
+f:a77dcf77c802dc5a1900aa0fb4600469:lxqt-wallet/.footprint
 f:e9f7fb5c45c6303314e264f4056fb36a:lxqt-archiver/.signature
 f:e6eb21bf0aa4d1a35b7ab62cd1735817:lxqt-archiver/Pkgfile
 f:42b4d0c336355a9917411531f49e2b9e:lxqt-archiver/.footprint
@@ -184,6 +184,6 @@ f:5d210dac74a3c2e6d0a556b6bd1f770b:lxqt-admin/.footprint
 f:792893df847f8b5d2123c85377ae460e:lxqt/.signature
 f:44dc93f3681f01b2b8f7a0bef21c76c8:lxqt/Pkgfile
 f:be28f7bcfd813622700367b7200133e6:lxqt/.footprint
-f:403e72361dc379622dd812c8fa0ecd89:lxqt-wayland-session/.signature
-f:912cfbeabbf94c18e39c0b8efca1d0a9:lxqt-wayland-session/Pkgfile
+f:64bde661e6c3e6f0fd59c4c7d46d56a1:lxqt-wayland-session/.signature
+f:703eb93ed8d0e89305dc629caac5044b:lxqt-wayland-session/Pkgfile
 f:8a0161d3c66ea3487015bacfa2fad000:lxqt-wayland-session/.footprint
