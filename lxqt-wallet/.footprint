@@ -5,9 +5,8 @@ drwxr-xr-x	root/root	usr/include/
 drwxr-xr-x	root/root	usr/include/lxqt/
 -rw-r--r--	root/root	usr/include/lxqt/lxqt-wallet.h
 -rw-r--r--	root/root	usr/include/lxqt/lxqt_wallet.h
-drwxr-xr-x	root/root	usr/lib64/
-lrwxrwxrwx	root/root	usr/lib64/liblxqt-wallet.so -> liblxqt-wallet.so.6.0.0
--rwxr-xr-x	root/root	usr/lib64/liblxqt-wallet.so.6.0.0
-drwxr-xr-x	root/root	usr/lib64/pkgconfig/
--rw-r--r--	root/root	usr/lib64/pkgconfig/lxqt-wallet.pc
-drwxr-xr-x	root/root	usr/share/
+drwxr-xr-x	root/root	usr/lib/
+lrwxrwxrwx	root/root	usr/lib/liblxqt-wallet.so -> liblxqt-wallet.so.6.0.0
+-rwxr-xr-x	root/root	usr/lib/liblxqt-wallet.so.6.0.0
+drwxr-xr-x	root/root	usr/lib/pkgconfig/
+-rw-r--r--	root/root	usr/lib/pkgconfig/lxqt-wallet.pc

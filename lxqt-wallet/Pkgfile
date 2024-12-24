@@ -1,7 +1,8 @@
 # Description: create a kwallet like functionality for lxqt
 # URL: https://github.com/lxqt/lxqt-wallet
 # Maintainer: Jay Lanagan, j at lngn dot net
-# Depends on: kwallet libsecret qt6-tools
+# Depends on: kwallet
+# Optional: libsecret
 
 name=lxqt-wallet
 version=4.0.2
@@ -10,15 +11,18 @@ release=1
 source=(https://github.com/lxqt/lxqt_wallet/releases/download/$version/$name-$version.tar.xz)
 
 build() {
+	prt-get isinst libsecret && PKGMK_LXWL+='-DNOSECRETSUPPORT=false ' || PKGMK_LXWL+='-DNOSECRETSUPPORT=true '
+
 	mkdir -p build
 	cd build
-	cmake "$SRC/$name-$version" \
+	cmake "$SRC/$name-$version"  $PKGMK_LXWL \
 		-DCMAKE_INSTALL_PREFIX=/usr \
-		-DCMAKE_BUILD_TYPE=Release \
+		-DCMAKE_INSTALL_LIBDIR=/usr/lib \
+		-DCMAKE_BUILD_TYPE=RELEASE \
 		-Wno-dev
 	make
 
 	make DESTDIR="$PKG" install
 
-rm -rf $PKG/usr/share/lxqt
+rm -rf $PKG/usr/share/
 }
