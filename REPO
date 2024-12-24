@@ -181,8 +181,8 @@ f:5c842c9d079508933a386be5c34277e0:lximage-qt/.footprint
 f:2a0974a3549fa30fcfdbc2d672344dfe:lxqt-admin/.signature
 f:310ec2224e3effb8967a27b1bf79579d:lxqt-admin/Pkgfile
 f:5d210dac74a3c2e6d0a556b6bd1f770b:lxqt-admin/.footprint
-f:792893df847f8b5d2123c85377ae460e:lxqt/.signature
-f:44dc93f3681f01b2b8f7a0bef21c76c8:lxqt/Pkgfile
+f:4c3475c1bf21fbddc4e781c72531f7c3:lxqt/.signature
+f:6269952942c95218819774b6d7d8308c:lxqt/Pkgfile
 f:be28f7bcfd813622700367b7200133e6:lxqt/.footprint
 f:64bde661e6c3e6f0fd59c4c7d46d56a1:lxqt-wayland-session/.signature
 f:703eb93ed8d0e89305dc629caac5044b:lxqt-wayland-session/Pkgfile
