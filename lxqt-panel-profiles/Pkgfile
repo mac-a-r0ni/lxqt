@@ -1,0 +1,19 @@
+# Description: LXQt panel profile
+# URL: https://github.com/lxqt/lxqt-powermanagement
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: lxqt-panel python-pyqt6 qt6-tools
+
+name=lxqt-panel-profiles
+version=1.1
+release=1
+source=(https://codeberg.org/MrReplikant/$name/archive/$version.tar.gz)
+renames=($name-$version.tar.gz)
+
+build() {
+
+	cd $name
+	mkdir $PKG/usr
+	cd $SRC/$name
+	cp -a -R usr/* $PKG/usr/
+
+}

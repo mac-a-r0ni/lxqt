@@ -22,6 +22,7 @@ d:libsfdo
 d:lxqt-powermanagement
 d:labwc
 d:lxqt-wallet
+d:lxqt-panel-profiles
 d:lxqt-archiver
 d:lxqt-menu-data
 d:lxqt-build-tools-qt5
@@ -122,6 +123,10 @@ f:d5db36b2c060c99acd84abe1ad0cfa57:labwc/.footprint
 f:3bcd7b6e9be9905886a734cdae79ff83:lxqt-wallet/.signature
 f:d28abde4304dba32f32299d8b9e81b35:lxqt-wallet/Pkgfile
 f:a77dcf77c802dc5a1900aa0fb4600469:lxqt-wallet/.footprint
+f:2c662a17035430dad0111663102771c4:lxqt-panel-profiles/.signature
+f:d795a6a1545fd79c828ec03bf93d2958:lxqt-panel-profiles/post-install
+f:f01cb4361680697dfb46ae70d5671ba0:lxqt-panel-profiles/Pkgfile
+f:009edd2a1e9a42f9fc9a37672998f75e:lxqt-panel-profiles/.footprint
 f:e9f7fb5c45c6303314e264f4056fb36a:lxqt-archiver/.signature
 f:e6eb21bf0aa4d1a35b7ab62cd1735817:lxqt-archiver/Pkgfile
 f:42b4d0c336355a9917411531f49e2b9e:lxqt-archiver/.footprint
