@@ -25,6 +25,7 @@ d:lxqt-wallet
 d:lxqt-panel-profiles
 d:lxqt-archiver
 d:lxqt-menu-data
+d:labwc-tweaks
 d:lxqt-build-tools-qt5
 d:qterminal
 d:libstatgrab
@@ -133,6 +134,10 @@ f:42b4d0c336355a9917411531f49e2b9e:lxqt-archiver/.footprint
 f:54b47c23b92dae383b3186a0a0cc67c6:lxqt-menu-data/.signature
 f:2af7ec3202a5948faf9b11c2048fd7ef:lxqt-menu-data/Pkgfile
 f:84c9cd9c5c63f242e4e07d14997c9bf0:lxqt-menu-data/.footprint
+f:83d7099da9fef1d97b1eda69ff1853ba:labwc-tweaks/.signature
+f:ed2014dd0f5944e62c1e6a160e17ad23:labwc-tweaks/post-install
+f:8d61448eb5f9137eb6ca1e5350033a54:labwc-tweaks/Pkgfile
+f:d56db3192e2ca4c92390de88ab236798:labwc-tweaks/.footprint
 f:55ef119a41f7f31f2bd4b9d48d433af9:lxqt-build-tools-qt5/.signature
 f:b7943f35571f0df6b025d14c6ebbe3e5:lxqt-build-tools-qt5/Pkgfile
 f:f190a83fb912fc94b1ebf10ad28dd528:lxqt-build-tools-qt5/.footprint
