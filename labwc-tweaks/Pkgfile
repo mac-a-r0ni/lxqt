@@ -1,0 +1,24 @@
+# Description: A Wayland window-stacking compositor
+# URL: https://github.com/labwc/labwc-tweaks
+# Maintainer: Jay Lanagan, j at lngn dot net
+# Depends on: qt6-base libxml2 glib2
+
+name=labwc-tweaks
+version=20241209
+release=1
+_commit=b4fcde7b91564ebd80dc6f234b35609d476e6f2d
+source=(https://github.com/labwc/labwc-tweaks/archive/$_commit.tar.gz)
+renames=($name-$version.tar.gz)
+build() {
+
+        cmake -B build -S $name-* \
+                -DCMAKE_INSTALL_PREFIX=/usr \
+                -DCMAKE_BUILD_TYPE=Release \
+                -Wno-dev
+        make -C build
+
+        cd build
+        make DESTDIR=$PKG install
+
+rm -rf $PKG/usr/share/labwc-tweaks/
+}
