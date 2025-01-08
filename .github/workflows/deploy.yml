@@ -15,13 +15,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE
       - uses: actions/checkout@v3
 
-      # Prepare git log message to avoid extra blank lines
-      - name: Set env message
-        run: |
-          GITREPO=`git remote show origin -n | grep h.URL | sed 's/Fetch URL: https:\/\/github.com\/mac-a-r0ni/lxqt\///g'`
-          GITMSG=`git log -1 --pretty=format:"%s"`
-          echo "MESSAGE=$(echo "[$GITREPO  ]: $GITMSG")" >> $GITHUB_ENV 
-      
       - name: Update REPO file
         run: |
           wget -P /tmp -q https://crux.nu/files/httpup-0.5.0.tar.xz
