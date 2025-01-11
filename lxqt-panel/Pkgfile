@@ -4,7 +4,7 @@
 # Depends on: layer-shell-qt libdbusmenu-lxqt libqtxdg lxqt-menu-data lxqt-globalkeys menu-cache solid libstatgrab libsysstat lm_sensors
 
 name=lxqt-panel
-version=2.1.3
+version=2.1.4
 release=1
 
 source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
