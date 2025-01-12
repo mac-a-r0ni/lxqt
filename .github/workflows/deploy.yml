@@ -17,9 +17,9 @@ jobs:
 
       - name: Update REPO file
         run: |
-          wget -P /tmp -q https://crux.nu/files/httpup-0.5.0.tar.xz
-          tar -C /tmp -xf /tmp/httpup-0.5.0.tar.xz httpup-0.5.0/httpup-repgen
-          /tmp/httpup-0.5.0/httpup-repgen
+          wget -P /tmp -q https://crux.nu/files/httpup-0.5.1.tar.xz
+          tar -C /tmp -xf /tmp/httpup-0.5.1.tar.xz httpup-0.5.1/httpup-repgen
+          /tmp/httpup-0.5.1/httpup-repgen
           git add REPO
 
       - name: Push to remote
