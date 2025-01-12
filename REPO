@@ -64,8 +64,8 @@ f:23d4f5945bbfdc2c2f4f7ab79eaa0449:pavucontrol-qt/.signature
 f:f99945ab900cbd0b1178d6a356225629:pavucontrol-qt/post-install
 f:c989d56b77781bb15abdc72df9a066aa:pavucontrol-qt/Pkgfile
 f:a7caf844b842a79b63fee8b9b2798855:pavucontrol-qt/.footprint
-f:ef540b57ee562bc9ef161055f9979ddd:lxqt-panel/.signature
-f:4bd18591861d1b1045305dfa83dc34e7:lxqt-panel/Pkgfile
+f:0ccbd4d2de07c41bf0071af2c1d843ab:lxqt-panel/.signature
+f:a8401979a9d698c6715172c745c4eb28:lxqt-panel/Pkgfile
 f:8c84635675a187b32d96f206383395a0:lxqt-panel/.footprint
 f:2d43becd6e0b7a6dc4618d1aaac078d0:libfm/.signature
 f:a64fd4b101c1db284319ae8ec8bf84b1:libfm/Pkgfile
@@ -73,8 +73,8 @@ f:965be2182b58d5f79ee062fae3c720d9:libfm/.footprint
 f:abb488800105e7e61af2507393b773a7:lxqt-policykit/.signature
 f:6cdb9c0cf76985dabe18e640d1baf33f:lxqt-policykit/Pkgfile
 f:0e9beb76480987149ed9a8a2f932336f:lxqt-policykit/.footprint
-f:8e195e7cd3493fbd6b2deb87e6530041:lxqt-runner/.signature
-f:3049f7c8e4e0c0b0f6896a4efae89f55:lxqt-runner/Pkgfile
+f:5201e9daa8966c2813b13318856548ee:lxqt-runner/.signature
+f:eb2f36c02c758dd9a79bfd063cf24201:lxqt-runner/Pkgfile
 f:f2dc051761bb2987e7f2acdf79c46476:lxqt-runner/.footprint
 f:259641cfaf6430419cddbb8d2b119403:qtxdg-tools/.signature
 f:7be10ecbd601ca5beb774e39658c0236:qtxdg-tools/Pkgfile
