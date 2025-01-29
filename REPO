@@ -73,8 +73,8 @@ f:965be2182b58d5f79ee062fae3c720d9:libfm/.footprint
 f:abb488800105e7e61af2507393b773a7:lxqt-policykit/.signature
 f:6cdb9c0cf76985dabe18e640d1baf33f:lxqt-policykit/Pkgfile
 f:0e9beb76480987149ed9a8a2f932336f:lxqt-policykit/.footprint
-f:5201e9daa8966c2813b13318856548ee:lxqt-runner/.signature
-f:eb2f36c02c758dd9a79bfd063cf24201:lxqt-runner/Pkgfile
+f:b46a7cdd697b84347ddb340fd2f57033:lxqt-runner/.signature
+f:a14e0c623eb81ae7e8b49d1374ce4c93:lxqt-runner/Pkgfile
 f:f2dc051761bb2987e7f2acdf79c46476:lxqt-runner/.footprint
 f:259641cfaf6430419cddbb8d2b119403:qtxdg-tools/.signature
 f:7be10ecbd601ca5beb774e39658c0236:qtxdg-tools/Pkgfile
@@ -184,9 +184,9 @@ f:f35d6781649c5c628e5af9b983100756:lxqt-about/.signature
 f:04bab67cdf9cd2d4daa4411bb7d77c42:lxqt-about/post-install
 f:2451247de8485e1308f28baf30baea32:lxqt-about/Pkgfile
 f:126de3f5dcf7faec5aaa0b386a085209:lxqt-about/.footprint
-f:766c26c69e71d509e2687bdb7f8e6656:lximage-qt/.signature
+f:5b59f65034bbf8534e7e2cdf69183e71:lximage-qt/.signature
 f:04bab67cdf9cd2d4daa4411bb7d77c42:lximage-qt/post-install
-f:30cbc3724b60163389634d55037a898c:lximage-qt/Pkgfile
+f:af22065fa5547f3ac9ae2622ddd5945a:lximage-qt/Pkgfile
 f:5c842c9d079508933a386be5c34277e0:lximage-qt/.footprint
 f:2a0974a3549fa30fcfdbc2d672344dfe:lxqt-admin/.signature
 f:310ec2224e3effb8967a27b1bf79579d:lxqt-admin/Pkgfile
