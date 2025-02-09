@@ -158,10 +158,10 @@ f:b0bd3221318d52496f64ddd082f0818b:lxqt-build-tools/.footprint
 f:04b543e6e2e50f5eae98ed05e3727f45:lxqt-notificationd/.signature
 f:6a4e6657012b92689083648c21b6e014:lxqt-notificationd/Pkgfile
 f:7e9edc6a57a90df31e90b7ee6cd02e40:lxqt-notificationd/.footprint
-f:14307143fdf1642920db1ab761579797:lxqt-config/.signature
+f:1d8aabc330de84e7ff884c6eb3e3359d:lxqt-config/.signature
 f:ed2014dd0f5944e62c1e6a160e17ad23:lxqt-config/post-install
-f:955deab41504433df13e4d110dadb2e9:lxqt-config/Pkgfile
-f:238e5fb56c06023689ec4ea3766e2bfe:lxqt-config/.footprint
+f:13a1e342169d16663945bc53149e3d80:lxqt-config/Pkgfile
+f:8686b7c7686c2c1b5552ef94214ad77f:lxqt-config/.footprint
 f:acd92ca457058811b8107bdde6118e47:lxqt-sudo/.signature
 f:a06d7233e54bd1bb79f85e3d5144678c:lxqt-sudo/Pkgfile
 f:c77da9e24c5893e99a72be3b328e16c5:lxqt-sudo/.footprint
