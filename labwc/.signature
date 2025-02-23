@@ -1,5 +1,4 @@
 untrusted comment: verify with /etc/ports/lxqt.pub
-RWSobSt/++EYD+HesP6Nm+53T27uEru4P7NaQvrd5rz8O4IQ0hmD9iktkKjXG/gIBKZrAXb4s6RC68LfK9sKuWPMOowCpqyDwQI=
-SHA256 (Pkgfile) = 34eca60557be062d7bbaeed1dd32edc192ccb1ac104bcb0dbc84c6c425dc8d20
-SHA256 (.footprint) = cb3879cd124b73f6d5128262b07d0b11747603215a8c4b4ef4fef27696dcccb9
-SHA256 (labwc-0.8.2.tar.gz) = 1adba1c87ec26f2f00409b47a0b79ccfd68bd160e1abc41822fb01f0a76ee947
+RWSobSt/++EYD8h1XeAKS+DVlZ/gPSFYD0IewlSIK8SablWp3wlgwb2iNIQl6ggWdNIvq5YCCjzwZ+Fa3wk/50Z2GBeHa+3pAAo=
+SHA256 (Pkgfile) = 04e03bb3d5e9e1f5d4ff2c05085df0a6493202a28a6f35c526a28e22d9e1e29e
+SHA256 (labwc-0.8.3.tar.gz) = 746be2ff2d0c0c0b795c97fa24c7058f75586685c88a1194c243b6a846f938a5
